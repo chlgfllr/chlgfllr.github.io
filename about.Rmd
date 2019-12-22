@@ -2,15 +2,15 @@
 title: "About me"
 ---
 
-I am a 2nd year PhD student in linguistics at the [University of Southern California](https://dornsife.usc.edu/ling).
+I'm a 2nd year PhD student in linguistics at the [University of Southern California](https://dornsife.usc.edu/ling).
 
 I am interested in phonetics and psycholinguistics. My current research focuses on the processing of rhythmic irregularities in English, to determine to what extent listeners have metrical expectations during speech perception. 
 
-<!-- The case of the Rhythm Rule is taken to test the  -->
+Before doing linguistics, I was training to be a professional ballet and contemporary dancer. I've also trained in music, and played the violin for a really long time. I am interested in the parallels that can be drawn between speech, dance and music, and it should be no surprise that the aspects of language that I work mostly on are articulation (for instance, movements of the tongue in the vocal tract) and speech perception!
 
 ---
 
-Before doing linguistics, I was training to be a professional ballet and contemporary dancer. I've also trained in music, and played the violin for a really long time! I am interested in the parallels that can be drawn between speech, dance and music, and it should be no surprise that the aspects of language that I work mostly on are articulation (for instance, movements of the tongue in the vocal tract) and speech perception!
+At USC, I am part of the [USC Phonetics and Phonology group](https://sites.google.com/view/uscphongroup/).
 
 ---
 
