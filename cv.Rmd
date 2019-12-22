@@ -2,8 +2,22 @@
 title: "CV"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download my CV</a>			
 
-## Header
+---
 
-Say more about your CV here.
+## Education
+
+- Ph.D. in Linguistics, *University of Southern California (US)*. Expected graduation: 2023
+- M.A. in Linguistics, specialization in Phonetics and Phonology, *Université Paris-Diderot (France)*
+- Erasmus+ exchange year, *University of Edinburgh (Scotland)*
+- Bachelors in Linguistics and English studies, *Université Paris-Diderot (France)*
+
+## Grants
+
+- USC Provost Fellowship (2018-2023)
+- Erasmus+ mobility grant (2014-2015)
+
+## Service
+
+- 2019-2020: Event coordinator, *Graduate Students in Linguistics* 

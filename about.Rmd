@@ -2,6 +2,16 @@
 title: "About me"
 ---
 
-## Header
+I am a 2nd year PhD student in linguistics at the [University of Southern California](https://dornsife.usc.edu/ling).
 
-Say more about you here.
+I am interested in phonetics and psycholinguistics. My current research focuses on the processing of rhythmic irregularities in English, to determine to what extent listeners have metrical expectations during speech perception. 
+
+<!-- The case of the Rhythm Rule is taken to test the  -->
+
+---
+
+Before doing linguistics, I was training to be a professional ballet and contemporary dancer. I've also trained in music, and played the violin for a really long time! I am interested in the parallels that can be drawn between speech, dance and music, and it should be no surprise that the aspects of language that I work mostly on are articulation (for instance, movements of the tongue in the vocal tract) and speech perception!
+
+---
+
+I'm originally from France, and completed my MA at [Université Paris-Diderot](https://www.linguist.univ-paris-diderot.fr/) before moving to Los Angeles. In my free time, I enjoy doing yoga and taking strolls in Griffith Park!
